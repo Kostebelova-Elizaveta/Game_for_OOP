@@ -1,0 +1,1930 @@
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:33
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:6
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:28
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:6
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:11
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:19
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:23
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:3
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:15
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:1
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:16
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:16
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:29
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:8
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:7
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:11
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:12
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:19
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:18
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:23
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:22
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:8
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:30
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:9
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:36
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:4
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:6
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:17
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:9
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:10
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:37
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:8
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:12
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:13
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:21
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:33
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:10
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:30
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:11
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:38
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:7
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:18
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:18
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:4
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:9
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:13
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:13
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:12
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:32
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:11
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:29
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:12
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:38
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:37
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:12
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:28
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:13
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:36
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:14
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:11
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:18
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:19
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:6
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:8
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:19
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:19
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:12
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:11
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:27
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:13
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:12
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:11
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:19
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:18
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:32
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:10
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:26
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:11
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:7
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:9
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:20
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:33
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:9
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:26
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:10
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:12
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:16
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:19
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:18
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:8
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:27
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:9
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:8
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:21
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:21
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:4
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:12
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:11
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:11
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:16
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:5
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:28
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:8
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:36
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:35
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:34
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:29
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:37
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:10
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:18
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:12
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:35
+Object's Position Y:8
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:36
+Object's Position Y:8
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:11
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:22
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:22
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:33
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:8
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:30
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:6
+Object's Position Y:17
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:38
+Object's Position Y:20
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:21
+Object's Position Y:9
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:25
+Object's Position Y:19
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:35
+Object's Position Y:13
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:30
+Object's Position Y:18
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:skeleton
+Object's Health:25
+Object's Atack:5
+Object's Speed:1500
+Object's Position X:24
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:32
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:9
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:15
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:6
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:38
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:37
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:37
+Object's Position Y:8
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:6
+Object's Position Y:12
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:23
+Object's Position Y:14
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:33
+Object's Position Y:23
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:22
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:troll
+Object's Health:50
+Object's Atack:15
+Object's Speed:2000
+Object's Position X:1
+Object's Position Y:21
+Object's Way for moving:3
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:5
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:10
+Object's Position Y:10
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:31
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:30
+Object's Position Y:15
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:7
+Object's Position Y:17
+Object's Way for moving:1
+Object's Check:0
+Object's Alive:1
+
+Object:beagle
+Object's Health:30
+Object's Atack:20
+Object's Speed:1000
+Object's Position X:36
+Object's Position Y:20
+Object's Way for moving:2
+Object's Check:0
+Object's Alive:1
+
